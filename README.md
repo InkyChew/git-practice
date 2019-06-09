@@ -1,4 +1,8 @@
-# Practice Git
+# Notes
+
+<h3>Git 基本觀念</h3>
+
+![Git基本觀念](https://blog.techbridge.cc/img/kdchang/cs101/git-workflow.png)
 
 <h3>新增、初始 WorkingDirectory</h3>
     
@@ -9,9 +13,9 @@
     
 
 
-`$ git status`
+`$ git status  # 查詢目錄狀態`
 
-<h3>將檔案放置Staging Area</h3>
+<h3>將檔案放置 Staging Area</h3>
 
 `$ git add –all/.  # 檔案從 Untracked 變成 new file 狀態`
 
@@ -37,3 +41,7 @@
 <h3>Pull</h3>
 
 > _git pull = git fetch + git merge_
+
+# Reference
+- https://gitbook.tw/
+- https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/
