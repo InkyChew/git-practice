@@ -35,8 +35,7 @@
 <h3>Push</h3>
     
     $ git remote add origin https://github.com/InkyChew/git-practice.git  # 設定遠端節點
-    $ git push -u origin master
-    # -u upstream 將 origin/master 預設為本地 master 分支的 upstream
+    $ git push -u origin master   # -u upstream 將 origin/master 預設為本地 master 分支的 upstream
 
 <h3>Pull</h3>
 
